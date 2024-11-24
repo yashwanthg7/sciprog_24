@@ -1,5 +1,5 @@
-# PRACTICAL 3
-This folder contains practical 3 codes
+# PRACTICAL 4
+This folder contains practical 4 codes
 
 ## Compile:
 * gcc -o Area2 Area2.c
